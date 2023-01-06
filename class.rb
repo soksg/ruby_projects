@@ -14,5 +14,8 @@ class User
   end
 end
 
-user=User.new("Jhon")
-user.hello
+jhon=User.new("Jhon")
+jhon.hello
+
+olivia=User.new('olivia')
+olivia.hello
